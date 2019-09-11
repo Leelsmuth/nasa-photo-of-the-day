@@ -8,7 +8,7 @@ function App() {
 
   useEffect(() => {
     axios
-      .get("https://lambda-github-api-server.herokuapp.com/")
+      .get("https://api.nasa.gov/planetary/apod?api_key=ImKgMnxQNGf2ScBad9oi68atzxgcaY1rz3yOKuVs&date=2019-07-11")
       .then(response => {
         setData(response.data);
       }, [])
