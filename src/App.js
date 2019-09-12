@@ -15,7 +15,7 @@ function App() {
       .catch(error => {
         console.log("Error!!!!");
       });
-  });
+  }, []);
   return (
     <div className="App">
       <Card

@@ -32,20 +32,8 @@
   }
 }
 
-/* .cards {
+.cards {
   background-color: #787d86;
-  width:100%;
+  width: 100%;
+  background-image: url("https://pixabay.com/illustrations/background-abstract-line-2462431/");
 }
-
-.img {
-  border-radius: 50%;
-  width: 300px;
-  height: 300px;
-}
-
-.explanation {
-  width: 50%;
-  margin: 0 auto;
-  padding-top: 20px;
-  font-family: cursive;
-} */
