@@ -31,3 +31,9 @@
     transform: rotate(360deg);
   }
 }
+
+.cards {
+  background-color: #787d86;
+  width: 100%;
+  background-image: url("https://pixabay.com/illustrations/background-abstract-line-2462431/");
+}
